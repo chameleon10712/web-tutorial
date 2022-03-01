@@ -1,0 +1,25 @@
+.title {
+	padding-top: 1rem;
+	padding-bottom: 1rem;
+}
+/*
+Color Scheme - 17
+https://designshack.net/articles/trends/best-website-color-schemes/
+*/
+.todo-title {
+	font-family: 'Helvetica';
+	font-size: large;
+	color: #3CBCC3;
+}
+.todo-content {
+	color: #1D1D2C;
+}
+.todo-delete {
+	color: #EBA63F !important;
+}
+.todo-edit {
+	color: #3CBCC3;
+}
+.edit-box {
+	width: 100%;
+}
