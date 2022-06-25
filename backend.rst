@@ -57,6 +57,15 @@ Backend Framework
 - ExpressJS
 
 
+|
+
+Web Security
+-----------------
+
+- Cross-Origin Resource Sharing (CORS)
+
+- Cross-Site Request Forgery (CSRF)
+
 
 
 |
