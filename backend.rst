@@ -16,6 +16,13 @@ Server
 - Nginx
 - Apache
 
+|
+
+Concept
++++++++++++
+
+.. image:: https://blog.hubspot.com/hs-fs/hubfs/Google%20Drive%20Integration/What%20Is%20a%20Reverse%20Proxy%3F%20(And%20Why%20Does%20It%20Matter%3F).png?width=650&name=What%20Is%20a%20Reverse%20Proxy%3F%20(And%20Why%20Does%20It%20Matter%3F).png
+
 
 
 
