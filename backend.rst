@@ -11,6 +11,18 @@ Web Backend Concept
 |
 
 
+Server
+----------
+
+- Nginx
+- Apache
+
+
+
+
+|
+
+
 WSGI
 -------
 
@@ -27,6 +39,25 @@ WSGI
 
 
 |
+
+
+Backend Framework
+---------------------
+|
+
+.. raw:: html
+
+    <img src="https://blog.back4app.com/wp-content/uploads/2020/09/top-backend-frameworks-2-1140x515-3-3-2-2-2-1140x515.png" width="600px">
+
+|
+
+- Flask
+- Django
+- Laravel
+- ExpressJS
+
+
+
 
 |
 
