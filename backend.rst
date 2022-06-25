@@ -49,13 +49,8 @@ WSGI
 
 Backend Framework
 ---------------------
-|
 
-.. raw:: html
-
-    <img src="https://blog.back4app.com/wp-content/uploads/2020/09/top-backend-frameworks-2-1140x515-3-3-2-2-2-1140x515.png" width="600px">
-
-|
+Common Backend Framework
 
 - Flask
 - Django
