@@ -2,8 +2,12 @@ Web Backend Concept
 ======================
 
 
-.. image:: https://www.maxlist.xyz/wp-content/uploads/2020/05/Flask_WSGI_Nginx_Max%E8%A1%8C%E9%8A%B7%E8%AA%8C-768x152.png
 
+
+
+.. image:: https://res.cloudinary.com/practicaldev/image/fetch/s--Aozu6gS4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/56zf2r5ljmujm2jwtz8y.jpg
+
+|
 
 
 WSGI
@@ -12,6 +16,7 @@ WSGI
 - Web Server Gateway Interface.
 - It is a specification that describes how a web server communicates with web applications, and how web applications can be chained together to process one request.
 - 為Python語言定義的Web伺服器和Web應用程式或框架之間的一種簡單而通用的介面
+
 
 |
 
