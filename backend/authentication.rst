@@ -7,8 +7,17 @@ Authentication
 
 |
 
-authentication vs. authorization
-------------------------------------
+JWT
+-----
 
+- `JSON Web Token <https://jwt.io/>`_
+
+
+
+
+|
+
+authentication vs. authorization
+=====================================
 
 
