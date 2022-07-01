@@ -18,17 +18,6 @@ HTML Escape
 - `html escape characters <https://mateam.net/html-escape-characters/>`_
 - `MDN html entity <https://developer.mozilla.org/en-US/docs/Glossary/Entity>`_
 
-|
-
-ORM
--------
-
-.. image:: https://www.fullstackpython.com/img/visuals/orms-bridge.png
-
-
-|
-
-- `StackOverflow <https://stackoverflow.com/questions/1279613/what-is-an-orm-how-does-it-work-and-how-should-i-use-one>`_
 
 
 |
