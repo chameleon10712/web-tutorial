@@ -15,7 +15,7 @@ HTML Escape
 - `StackOverflow <https://stackoverflow.com/questions/1556554/how-do-i-html-escape-dangerous-unsanitized-input-in-jinja2>`_
 - `Jinja2 <https://tedboy.github.io/jinja2/templ10.html>`_
 - `html escape characters <https://mateam.net/html-escape-characters/>`_
-
+- `MDN html entity <https://developer.mozilla.org/en-US/docs/Glossary/Entity>`_
 
 |
 
